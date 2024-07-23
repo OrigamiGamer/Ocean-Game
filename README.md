@@ -3,4 +3,5 @@ A 4K-RhythmGame developed by EPL(易语言) on windows.
 ### Notice
 Some EPL modules used for this project were not showed.
 ## Preview
-<img src="https://github.com/OrigamiGamer/Ocean-Game/blob/main/preview/1.png" alt="code-preview">
+- For more details, please watch the video <a href="https://www.bilibili.com/video/BV1V84y14734/?share_source=copy_web&vd_source=ceb4c30740d6f909512302aed8c69a02">BV1V84y14734</a> on bilibili.
+- <img src="https://github.com/OrigamiGamer/Ocean-Game/blob/main/preview/1.png" alt="code-preview">
