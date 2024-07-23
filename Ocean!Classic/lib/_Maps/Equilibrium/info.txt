@@ -1,0 +1,8 @@
+[Config]
+title=Equilibrium
+subtitle=[Eazy]  Artist: Maozon  Creater: ph03n1x
+audio=audio.mp3
+bg=bg1.jpg
+cover=bg2.jpg
+preTime=86736
+endTime=136069

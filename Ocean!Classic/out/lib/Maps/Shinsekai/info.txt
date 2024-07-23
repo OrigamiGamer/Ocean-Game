@@ -1,0 +1,8 @@
+[Config]
+title=Shinsekai
+subtitle=[19.4] Artist: Shiraishi  Creator: frootti
+audio=shinsekai.mp3
+bg=shinsekai.png
+cover=shinsekai.png
+preTime=9970
+endTime=93283

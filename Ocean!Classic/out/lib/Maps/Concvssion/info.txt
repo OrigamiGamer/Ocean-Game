@@ -1,0 +1,8 @@
+[Config]
+title=Concvssion
+subtitle=[Hard]  Artist: Halv  Creator: wcr161
+audio=audio.mp3
+bg=bg.jpg
+cover=bg.jpg
+preTime=95986
+endTime=150302

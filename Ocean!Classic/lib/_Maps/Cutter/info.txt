@@ -1,0 +1,8 @@
+[Config]
+title=Cutter
+subtitle=[Hard]  Artist: EmoCosine  Creator: RelaxloveMika
+audio=audio.mp3
+bg=bg.jpg
+cover=bg.jpg
+preTime=113993
+endTime=139600

@@ -1,0 +1,8 @@
+[Config]
+title=Apollo
+subtitle=[Another]  Artist: TJ.hangneil  Creator: Natro
+audio=audio.mp3
+bg=bg.jpg
+cover=bg.jpg
+preTime=91667
+endTime=155200

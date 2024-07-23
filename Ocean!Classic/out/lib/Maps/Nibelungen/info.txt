@@ -1,0 +1,10 @@
+[Config]
+title=Nibelungen
+subtitle=[Hard]  Artist: Gram  Creator: Sakura Blossom
+
+audio=audio.mp3
+bg=ayame.jpg
+cover=ayame.jpg
+
+preTime=119559
+endTime=182700

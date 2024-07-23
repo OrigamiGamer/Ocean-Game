@@ -1,0 +1,8 @@
+[Config]
+title=More One Night
+subtitle=[One Last Time] Artist: Sho Fish  Creator: smokydoh
+audio=audio.mp3
+bg=thank_you_nikosek_for_the_bg.png
+cover=thank_you_nikosek_for_the_bg.png
+preTime=213088
+endTime=304776

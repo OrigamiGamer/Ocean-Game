@@ -1,0 +1,9 @@
+[Config]
+title=XODUS
+subtitle=[Another]  Artist: DJ Myosuke & Gram  Creator: AIforAkin
+audio=audio.mp3
+map=XODUS.ocm
+bg=bg.jpg
+cover=bg.jpg
+preTime=0
+endTime=125500

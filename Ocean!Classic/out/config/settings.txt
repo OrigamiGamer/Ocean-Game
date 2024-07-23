@@ -1,0 +1,18 @@
+
+#Don't change anyting here!#
+
+[Volume]
+Music=30
+Effect=30
+
+[Screen]
+FullScreen=false
+width=1600
+hight=900
+DisplayFPS=true
+
+[Start]
+AutoPlayMusic=false
+
+[Game]
+FallingSpeed=16

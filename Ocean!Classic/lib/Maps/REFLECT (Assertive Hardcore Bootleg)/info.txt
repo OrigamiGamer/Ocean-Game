@@ -1,0 +1,8 @@
+[Config]
+title=REFLECT (Assertive Hardcore Bootleg)
+subtitle=[4K Minnow] Artist: Gawr Gura  Creator: Fullest
+audio=audio.mp3
+bg=gura-reflect-assertive.jpg
+cover=gura-reflect-assertive.jpg
+preTime=40941
+endTime=189352

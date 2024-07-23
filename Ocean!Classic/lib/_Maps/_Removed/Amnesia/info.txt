@@ -1,0 +1,8 @@
+[Config]
+title=Amnesia
+subtitle=[Hard]  Artist: Pixel Terror  Creator: Ucitysm
+audio=audio.mp3
+bg=bg.jpg
+cover=bg.jpg
+preTime=60031
+endTime=220073

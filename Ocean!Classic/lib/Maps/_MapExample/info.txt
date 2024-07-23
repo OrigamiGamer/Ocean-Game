@@ -1,0 +1,8 @@
+[Config]
+title=
+subtitle=
+audio=audio.mp3
+bg=bg.jpg
+cover=bg.jpg
+preTime=
+endTime=

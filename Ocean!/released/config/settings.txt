@@ -1,0 +1,17 @@
+
+#Don't change anyting here!#
+
+[Volume]
+Music=18
+Effect=17
+
+[Screen]
+FullScreen=false
+width=1280
+hight=720
+_width=640
+_hight=360
+DisplayFPS=false
+
+[Start]
+AutoPlayMusic=false

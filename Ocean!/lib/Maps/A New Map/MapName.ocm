@@ -1,0 +1,12 @@
+//START
+[point],<line>,<x>,<y>,<w>,<h>,<note_w>,<note_h>;
+[tap],<NoteTime>,<Line>,<Opacity>;
+//END
+[variable],6;
+[point],1,400,900,null,null,null,null;
+[point],2,600,900,null,null,null,null;
+[point],3,800,900,null,null,null,null;
+[point],4,1000,900,null,null,null,null;
+[point],5,1200,900,null,null,null,null;
+[point],6,1400,900,null,null,null,null;
+[tap],912,1,255;

@@ -1,0 +1,8 @@
+[Config]
+title=Kakuzetsu Thanatos
+subtitle=[Insane] Artist: Rohi  Creator: neyoru
+audio=Kakuzetsu Thanatos.mp3
+bg=BG.JPG
+cover=BG.JPG
+preTime=68170
+endTime=214784

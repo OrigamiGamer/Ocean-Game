@@ -1,0 +1,8 @@
+[Config]
+title=fall damage
+subtitle=[insane sv] Artist: crafter2011  Creator: KGB Official
+audio=audio.mp3
+bg=fall damage.PNG
+cover=fall damage.PNG
+preTime=46858
+endTime=84903

@@ -1,0 +1,8 @@
+[Config]
+title=21st Century Humor But It's A Rave Song
+subtitle=[Niko's wasd] Artist: R O C K Y  Creator: Jawbraiker
+audio=audio.mp3
+bg=21stBGv1.1.png
+cover=21stBGv1.1.png
+preTime=34621
+endTime=127246

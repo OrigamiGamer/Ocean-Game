@@ -1,0 +1,8 @@
+[Config]
+title=MAYHEM
+subtitle=[Another]  Artist: RoughSketch x CANVAS  Creator: Alyca
+audio=audio.mp3
+bg=bg.jpg
+cover=bg.jpg
+preTime=94660
+endTime=122315

@@ -1,0 +1,11 @@
+[config]
+title=996
+subtitle=Artist: Li Huayu  Creator: 5i3R 
+
+mapName=996.ocm
+audio=audio.mp3
+bg=996.png
+cover=996.png
+
+preTime=44571
+endTime=140571

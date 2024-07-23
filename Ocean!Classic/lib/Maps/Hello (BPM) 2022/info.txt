@@ -1,0 +1,8 @@
+[Config]
+title=Hello (BPM) 2022
+subtitle=[Insane] Artist: Camellia  Creator: ph03n1x
+audio=audio.mp3
+bg=shit_yourself.jpg
+cover=shit_yourself.jpg
+preTime=29882
+endTime=143709

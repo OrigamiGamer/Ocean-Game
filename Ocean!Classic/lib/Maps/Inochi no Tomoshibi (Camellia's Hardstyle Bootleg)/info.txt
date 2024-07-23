@@ -1,0 +1,8 @@
+[Config]
+title=Inochi no Tomoshibi (Camellia's Hardstyle Bootleg)
+subtitle=[FINAL SMASH] Artist: Hideki Sakamoto  Creator: Terces
+audio=audio.mp3
+bg=stretched-1680-1050-927337.png
+cover=ssbu fighters cropped.png
+preTime=43444
+endTime=239375

@@ -1,0 +1,8 @@
+[Config]
+title=Cheatreal
+subtitle=[Another]  Artist: t+pazolite  Creator: YUNOMI LAW
+audio=audio.mp3
+bg=bg.jpg
+cover=bg.jpg
+preTime=98451
+endTime=292800

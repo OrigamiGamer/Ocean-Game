@@ -1,0 +1,8 @@
+[Config]
+title=Ama de rasshu!
+subtitle=[Eazy]  Artist: YuuSaKi  Creator: Staravia
+audio=ama de rasshu.mp3
+bg=wallpaper.png
+cover=wallpaper.png
+preTime=74052
+endTime=136105

@@ -1,0 +1,14 @@
+[settings]
+音乐音量=音乐音量
+音效音量=音效音量
+显示模式.全屏=显示模式>>全屏
+显示模式.窗口=显示模式>>窗口
+自动播放.开=启动时播放音乐>>开
+自动播放.关=启动时播放音乐>>关
+显示FPS.开=显示FPS>>开
+显示FPS.关=显示FPS>>关
+[NoteTips]
+perfect=PERFECT!
+good=GOOD~
+bad=BAD
+miss=MISS
