@@ -1,5 +1,5 @@
 # Ocean-Game
-A 4K-Rhythm game developed by EPL(易语言) on windows in 2022.
+A 4K-Rhythm game developed in EPL(易语言) on windows in 2022. It's my first game developed by completely codes(except images and audios, but including GUI).
 ### Notice
 Some EPL modules used for this project were not showed.
 ## Preview
